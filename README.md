@@ -128,4 +128,4 @@ Calculator shutting down
 
 Feel free to reach out if you have any questions or suggestions.
 
-**Email:** maheenshahid0303@gmail.com
+**Email:** maheenshahid0302@gmail.com
