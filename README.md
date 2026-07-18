@@ -1,6 +1,6 @@
 # Continuous Scientific Calculator
 
-This project is a simple console-based scientific calculator developed in Python. It performs standard arithmetic operations and basic trigonometric calculations. The calculator runs continuously in a loop until the user chooses to exit by typing **end**.
+This task is a simple console-based scientific calculator developed in Python. It performs standard arithmetic operations and basic trigonometric calculations. The calculator runs continuously in a loop until the user chooses to exit by typing **end**.
 
 ## Contents
 
