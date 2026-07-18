@@ -62,7 +62,7 @@ python Task.py
 end
 ```
 
-## Project Structure
+## Task Structure
 
 ```
 Internship_Task-01/
